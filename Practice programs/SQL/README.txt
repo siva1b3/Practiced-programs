@@ -1,0 +1,1 @@
+This folder is having all the SQL programs that I practiced
