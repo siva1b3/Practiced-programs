@@ -1,1 +1,0 @@
-This folder is having all the java programs that I practiced
